@@ -21,7 +21,7 @@ Portfolio project for 100Hires Junior Growth Marketing Specialist application
 
 ## Issues I Ran Into
 - The Git Clone command through Ctrl+Shift+P in Cursor didn't seem to trigger anything visible, so I couldn't clone the repository directly through the editor. I solved this by downloading the ZIP file from GitHub directly and opening the extracted folder in Cursor instead. It worked fine as a workaround and got me to the same result.
-- There were multiple Claude Code extension variants in the Extensions search — I made sure to install the verified official one by Anthropic rather than any third party versions.
+- There were multiple Claude Code extension variants in the Extensions search. I made sure to install the verified official one by Anthropic rather than any third party versions.
 
 ## What I Learned
 - Setting up a development environment from scratch when you've never used these tools before is mostly about following instructions carefully and finding workarounds when something doesn't work as expected. The tools themselves aren't complicated once you're inside them. Claude Code and Codex sitting inside Cursor gives you an AI layer directly in your editor which I can see being genuinely useful for the kind of content and research work the role involves.
