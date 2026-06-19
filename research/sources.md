@@ -16,20 +16,20 @@
 - Focus: LinkedIn algorithm research
 - Why selected: Publishes annual LinkedIn algorithm reports based on real data, most cited algorithm researcher in B2B marketing
 
-### 4. Matt Lakajev
-- LinkedIn: https://www.linkedin.com/in/mattlakajev/
-- Focus: LinkedIn lead generation for SaaS founders
-- Why selected: Specifically works with SaaS companies on LinkedIn organic growth and outbound
+### 4. Dave Gerhardt
+- LinkedIn: https://www.linkedin.com/in/davegerhardt/
+- Focus: B2B marketing strategy, demand generation, community building
+- Why selected: Founder of Exit Five, one of the most respected B2B marketing communities, 300+ hours of interviews with CMOs and VPs, highly practical content on what actually works in B2B marketing
 
 ### 5. Jasmin Alic
 - LinkedIn: https://www.linkedin.com/in/alicjasmin/
 - Focus: LinkedIn copywriting and content frameworks
 - Why selected: Known for breaking down what makes LinkedIn posts perform, highly practical and data backed
 
-### 6. Josh Fechter
-- LinkedIn: https://www.linkedin.com/in/joshua-fechter/
-- Focus: B2B SaaS content and growth marketing
-- Why selected: Founded multiple SaaS communities, documented content growth strategies extensively
+### 6. Gaetano DiNardi
+- LinkedIn: https://www.linkedin.com/in/gaetano-nino-dinardi/
+- Focus: B2B SaaS demand generation, SEO, GEO, content strategy
+- Why selected: Former demand gen lead at Nextiva and Aura, highly practical content on what actually works in B2B SaaS marketing and organic growth
 
 ### 7. Katelyn Bourgoin
 - LinkedIn: https://www.linkedin.com/in/katebour/
@@ -46,7 +46,7 @@
 - Focus: Positioning and messaging for SaaS
 - Why selected: Author of Obviously Awesome, the definitive book on SaaS positioning, highly practical LinkedIn content
 
-### 10. Emily Kramer
-- LinkedIn: https://www.linkedin.com/in/emilykramer/
-- Focus: B2B SaaS marketing strategy and operations
-- Why selected: Co-founder of MKT1, former marketing leader at Carta and Asana, produces some of the most researched content on SaaS marketing
+### 10. Amanda Natividad
+- LinkedIn: https://www.linkedin.com/in/amandanat/
+- Focus: B2B content strategy, zero-click marketing, AI visibility, audience research
+- Why selected: VP Marketing at SparkToro, coined the term zero-click content, posts specifically about how B2B SaaS companies should approach content strategy and audience building
