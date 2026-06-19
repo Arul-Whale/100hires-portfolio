@@ -27,7 +27,7 @@
 - Why selected: Known for breaking down what makes LinkedIn posts perform, highly practical and data backed
 
 ### 6. Gaetano DiNardi
-- LinkedIn: https://www.linkedin.com/in/gaetano-nino-dinardi/
+- LinkedIn: https://www.linkedin.com/in/officialg/
 - Focus: B2B SaaS demand generation, SEO, GEO, content strategy
 - Why selected: Former demand gen lead at Nextiva and Aura, highly practical content on what actually works in B2B SaaS marketing and organic growth
 
